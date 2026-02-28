@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spawn_dirt_chunk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_dirt_chunk",
+  "parent":{
+    "name":"RaceForLife",
+    "path":"RaceForLife.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
