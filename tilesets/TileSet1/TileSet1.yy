@@ -13,8 +13,8 @@
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"TheRaceForLife",
-    "path":"TheRaceForLife.yyp",
+    "name":"Tiles",
+    "path":"folders/Tiles.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

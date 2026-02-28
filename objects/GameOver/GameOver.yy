@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Bacteria",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Attack","path":"objects/Attack/Attack.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"GameOver",
+  "eventList":[],
   "managed":true,
-  "name":"Bacteria",
+  "name":"GameOver",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Bacteria1",
-    "path":"sprites/Bacteria1/Bacteria1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

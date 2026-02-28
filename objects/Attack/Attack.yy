@@ -6,8 +6,8 @@
   "name":"Attack",
   "overriddenProperties":[],
   "parent":{
-    "name":"TheRaceForLife",
-    "path":"TheRaceForLife.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Bacteria",
+  "%Name":"RestartButton",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Attack","path":"objects/Attack/Attack.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Bacteria",
+  "name":"RestartButton",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bacteria1",
-    "path":"sprites/Bacteria1/Bacteria1.yy",
+    "name":"RetryButton",
+    "path":"sprites/RetryButton/RetryButton.yy",
   },
   "spriteMaskId":null,
   "visible":true,

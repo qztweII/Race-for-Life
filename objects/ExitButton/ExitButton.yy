@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Bacteria",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Attack","path":"objects/Attack/Attack.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"ExitButton",
+  "eventList":[],
   "managed":true,
-  "name":"Bacteria",
+  "name":"ExitButton",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bacteria1",
-    "path":"sprites/Bacteria1/Bacteria1.yy",
+    "name":"Sprite8",
+    "path":"sprites/Sprite8/Sprite8.yy",
   },
   "spriteMaskId":null,
   "visible":true,
