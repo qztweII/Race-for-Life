@@ -89,3 +89,5 @@ if (invincible)
 /// --- HORIZONTAL BORDER CLAMPING ---
 var border_width = 16; // Width of visible side tiles
 x = clamp(x, border_width, room_width - border_width);
+
+if (attack_cooldown > 0) attack_cooldown -= 1;

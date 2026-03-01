@@ -18,8 +18,8 @@ if (instance_exists(root)) {
 
     // Draw Level
     draw_set_color(c_white);
-    draw_text(20, 90, "Level: " + string(Root.level));
+    draw_text(40, 90, "Level: " + string(Root.level));
     
     // Optional: Draw Score smaller underneath
-    draw_text(20, 110, "Points: " + string(Root.points));
+    draw_text(40, 110, "Points: " + string(Root.points));
 }

@@ -20,3 +20,5 @@ last_trail_y = y;
 invincible = false;
 invincible_timer = 0;
 invincible_time = 60; // 1 second at 60fps
+
+attack_cooldown = 0;

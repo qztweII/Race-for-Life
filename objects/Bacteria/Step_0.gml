@@ -5,3 +5,7 @@ if (instance_exists(target)) {
     x += lengthdir_x(move_speed, dir);
     y += lengthdir_y(move_speed, dir);
 }
+
+if (hp <= 0) {
+    instance_destroy();
+}
